@@ -1,2 +1,2 @@
 # test_lists
-Detailed list of test system, performed tests and results.
+Detailed list of test systems, performed tests and results.
